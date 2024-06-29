@@ -1,45 +1,18 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-05-27T00:54:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://farseash.github.io/demo-hugo-theme-moments/</loc>
+    <lastmod>2024-06-30T01:20:08+08:00</lastmod>
+  </url><url>
+    <loc>https://farseash.github.io/demo-hugo-theme-moments/moments/my-first-moment/</loc>
+    <lastmod>2024-06-30T01:20:08+08:00</lastmod>
+  </url><url>
+    <loc>https://farseash.github.io/demo-hugo-theme-moments/moments/</loc>
+    <lastmod>2024-06-30T01:20:08+08:00</lastmod>
+  </url><url>
+    <loc>https://farseash.github.io/demo-hugo-theme-moments/categories/</loc>
+  </url><url>
+    <loc>https://farseash.github.io/demo-hugo-theme-moments/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-05-27T00:54:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
-    <lastmod>2023-05-27T00:54:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2023-05-27T00:54:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
-    <lastmod>2023-05-27T00:54:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>
